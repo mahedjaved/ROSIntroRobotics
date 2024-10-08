@@ -140,6 +140,13 @@
 /home/mjubuntu/catkin_ws/build/intro_robo/class_meeting_10_cat_recognition/CMakeFiles/rebuild_cache.dir
 /home/mjubuntu/catkin_ws/build/intro_robo/class_meeting_10_cat_recognition/CMakeFiles/edit_cache.dir
 /home/mjubuntu/catkin_ws/build/intro_robo/class_meeting_10_cat_recognition/CMakeFiles/test.dir
+/home/mjubuntu/catkin_ws/build/intro_robo/lab_a_spin_circles/CMakeFiles/install/strip.dir
+/home/mjubuntu/catkin_ws/build/intro_robo/lab_a_spin_circles/CMakeFiles/install/local.dir
+/home/mjubuntu/catkin_ws/build/intro_robo/lab_a_spin_circles/CMakeFiles/install.dir
+/home/mjubuntu/catkin_ws/build/intro_robo/lab_a_spin_circles/CMakeFiles/list_install_components.dir
+/home/mjubuntu/catkin_ws/build/intro_robo/lab_a_spin_circles/CMakeFiles/rebuild_cache.dir
+/home/mjubuntu/catkin_ws/build/intro_robo/lab_a_spin_circles/CMakeFiles/edit_cache.dir
+/home/mjubuntu/catkin_ws/build/intro_robo/lab_a_spin_circles/CMakeFiles/test.dir
 /home/mjubuntu/catkin_ws/build/intro_robo/lab_b_line_follower/CMakeFiles/install/strip.dir
 /home/mjubuntu/catkin_ws/build/intro_robo/lab_b_line_follower/CMakeFiles/install/local.dir
 /home/mjubuntu/catkin_ws/build/intro_robo/lab_b_line_follower/CMakeFiles/install.dir

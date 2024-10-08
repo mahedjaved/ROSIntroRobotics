@@ -1,0 +1,8 @@
+prefix=/home/mjubuntu/catkin_ws/devel
+
+Name: lab_a_spin_circles
+Description: Description of lab_a_spin_circles
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
