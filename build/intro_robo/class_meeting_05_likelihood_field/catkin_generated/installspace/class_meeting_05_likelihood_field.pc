@@ -1,0 +1,8 @@
+prefix=/home/mjubuntu/catkin_ws/install
+
+Name: class_meeting_05_likelihood_field
+Description: Description of class_meeting_05_likelihood_field
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

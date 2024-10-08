@@ -1,0 +1,8 @@
+prefix=/home/mjubuntu/catkin_ws/install
+
+Name: class_meeting_10_cat_recognition
+Description: Description of class_meeting_10_cat_recognition
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

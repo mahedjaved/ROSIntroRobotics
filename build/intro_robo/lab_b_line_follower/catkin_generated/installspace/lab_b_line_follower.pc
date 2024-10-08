@@ -1,0 +1,8 @@
+prefix=/home/mjubuntu/catkin_ws/install
+
+Name: lab_b_line_follower
+Description: Description of lab_b_line_follower
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/mjubuntu/catkin_ws/devel
+
+Name: turtlebot3_custom_teleop
+Description: Description of turtlebot3_custom_teleop
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

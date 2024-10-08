@@ -1,0 +1,8 @@
+prefix=/home/mjubuntu/catkin_ws/devel
+
+Name: lab_e_traffic_bot
+Description: Description of lab_e_traffic_bot
+Version: 0.0.0
+Cflags: -I/home/mjubuntu/catkin_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs rospy sensor_msgs std_msgs message_runtime
